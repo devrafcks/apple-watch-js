@@ -1,6 +1,6 @@
 # Página de Produto Apple
 
-![Uploading {26D04C18-E911-47D4-9329-89C28193C466}.png…]()
+<img width="1830" height="866" alt="{DBB3FBDF-50C8-47E1-B937-BD87CA7B1928}" src="https://github.com/user-attachments/assets/bfd7afab-416a-42c1-b0e8-1c92c790647f" />
 
 
 Uma réplica moderna e interativa da página de produto da Apple, focada na venda de pulseiras para Apple Watch. Este projeto demonstra habilidades em HTML, CSS e JavaScript para criar uma experiência de usuário fluida e responsiva.
