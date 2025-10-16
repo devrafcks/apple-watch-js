@@ -1,4 +1,7 @@
-# Página de Produto Apple - Pulseira Loop Esportiva
+# Página de Produto Apple
+
+![Uploading {26D04C18-E911-47D4-9329-89C28193C466}.png…]()
+
 
 Uma réplica moderna e interativa da página de produto da Apple, focada na venda de pulseiras para Apple Watch. Este projeto demonstra habilidades em HTML, CSS e JavaScript para criar uma experiência de usuário fluida e responsiva.
 
